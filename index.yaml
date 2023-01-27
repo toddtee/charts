@@ -1,3 +1,15 @@
 apiVersion: v1
-entries: {}
-generated: "2023-01-27T14:22:54.194151+10:00"
+entries:
+  helm-dashboard:
+  - apiVersion: v2
+    appVersion: 0.3.1
+    created: "2023-01-27T15:54:50.163505+10:00"
+    description: A GUI Dashboard for Helm by Komodor
+    digest: ae2569b25f07d00bf35e4d8b66b464f7346a3bd84a4e40886e96fe3e011aa409
+    icon: https://raw.githubusercontent.com/komodorio/helm-dashboard/main/pkg/dashboard/static/logo.svg
+    name: helm-dashboard
+    type: application
+    urls:
+    - helm-dashboard-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-01-27T15:54:50.161791+10:00"
